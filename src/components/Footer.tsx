@@ -29,7 +29,6 @@ const Footer = () => {
             <h4 className="text-white font-semibold mb-4">Navegação</h4>
             <ul className="space-y-2 text-sm">
               <li><Link href="/ensino" className="hover:text-white transition">Ensino Infantil e Fundamental</Link></li>
-              <li><Link href="/cursos-tecnicos" className="hover:text-white transition">Cursos Técnicos</Link></li>
               <li><Link href="/sobre" className="hover:text-white transition">Sobre a Instituição</Link></li>
               <li><Link href="#" className="hover:text-white transition">Matrículas 2026</Link></li>
             </ul>

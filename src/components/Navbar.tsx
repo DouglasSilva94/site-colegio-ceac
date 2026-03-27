@@ -10,7 +10,6 @@ const Navbar = () => {
   const menuItems = [
     { name: 'Início', href: '/' },
     { name: 'Ensino', href: '/ensino' },
-    { name: 'Cursos Técnicos', href: '/cursos-tecnicos' },
     { name: 'Sobre Nós', href: '/sobre' },
   ];
 
